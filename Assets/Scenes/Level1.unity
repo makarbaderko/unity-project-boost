@@ -212,22 +212,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 390914746}
   m_PrefabAsset: {fileID: 0}
---- !u!54 &1914822248
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1914822246}
-  serializedVersion: 2
-  m_Mass: 0.1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!114 &1914822249
 MonoBehaviour:
   m_ObjectHideFlags: 0

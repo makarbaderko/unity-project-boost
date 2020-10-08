@@ -188,6 +188,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rocket Ship
       objectReference: {fileID: 0}
+    - target: {fileID: 5805969906009670767, guid: 9ec5daf1c83e44df5abc96c80c0d02fe,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 744e8a4ce30ae4b2ebb643290e325a57, type: 3}
+    - target: {fileID: 5805969906009670767, guid: 9ec5daf1c83e44df5abc96c80c0d02fe,
+        type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ec5daf1c83e44df5abc96c80c0d02fe, type: 3}
 --- !u!108 &705507994 stripped
@@ -383,12 +393,12 @@ PrefabInstance:
     - target: {fileID: 7662674363349896040, guid: add5e4f6631f24d0fae6eaa26694dfa7,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.01
+      value: 3.09
       objectReference: {fileID: 0}
     - target: {fileID: 7662674363349896040, guid: add5e4f6631f24d0fae6eaa26694dfa7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.23
+      value: -19.7
       objectReference: {fileID: 0}
     - target: {fileID: 7662674363349896040, guid: add5e4f6631f24d0fae6eaa26694dfa7,
         type: 3}
@@ -477,7 +487,7 @@ PrefabInstance:
     - target: {fileID: 8925374951469421948, guid: d089015c97b254128bc5fd12a9a247a8,
         type: 3}
       propertyPath: m_Intensity
-      value: 1.23
+      value: 1.2
       objectReference: {fileID: 0}
     - target: {fileID: 8925374951469421948, guid: d089015c97b254128bc5fd12a9a247a8,
         type: 3}
